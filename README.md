@@ -95,9 +95,19 @@ To get a local copy up and running, follow these simple steps.
     .\a.exe
     ```
 
+### Screenshots of the Project
+
+![1](https://github.com/AryanBhan/Student-Management-System/assets/87280331/e0d05286-5412-4acc-b603-c7fc61b4845c)
+
+![2](https://github.com/AryanBhan/Student-Management-System/assets/87280331/117db4c7-bce4-46fe-a56f-8d5ac55a5c1a)
+
+![3](https://github.com/AryanBhan/Student-Management-System/assets/87280331/c62f2e8f-4356-46b9-ab64-ff16efd54a5f)
+
+![4](https://github.com/AryanBhan/Student-Management-System/assets/87280331/b73f3bb0-4f0a-4842-953f-9dc3d2b929f5)
 
 
-<!-- CONTACT -->
+![5](https://github.com/AryanBhan/Student-Management-System/assets/87280331/d5b3bc02-7a71-4bba-8a6e-688e2e928745)
+
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&link=https://www.linkedin.com/in/aryan-bhan-076766201/)](https://www.linkedin.com/in/aryan-bhan-076766201/)
