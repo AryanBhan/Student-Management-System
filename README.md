@@ -61,7 +61,7 @@ Features the app provides :-
 
 If you wanna add your taste to the existing application, feel free to fork the repo and just start working on your local machine!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ### Built With
@@ -95,7 +95,7 @@ To get a local copy up and running, follow these simple steps.
     .\a.exe
     ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 ## Contact
